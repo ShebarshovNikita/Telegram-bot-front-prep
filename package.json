@@ -1,0 +1,17 @@
+{
+  "name": "telegram-bot-front-prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Nikita Shebarshov",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "grammy": "^1.22.4",
+    "nodemon": "^3.1.0",
+    "random-js": "^2.1.0"
+  }
+}
